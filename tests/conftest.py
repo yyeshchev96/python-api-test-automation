@@ -1,0 +1,3 @@
+"""
+Fixtures, params handling
+"""
